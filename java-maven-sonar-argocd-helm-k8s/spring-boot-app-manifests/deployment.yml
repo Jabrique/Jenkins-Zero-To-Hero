@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: jabriq/ultimate-cicd:14
+        image: jabriq/ultimate-cicd:15
         ports:
         - containerPort: 8080
